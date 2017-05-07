@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=enablesdcardfs
+name=Enable sdcardfs
+version=Version 1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=nathanchance
+description=Changes the /sdcard filesystem from FUSE to sdcardfs. SDK24 or newer only!
 template=3
