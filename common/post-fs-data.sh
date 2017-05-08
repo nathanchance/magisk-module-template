@@ -20,5 +20,5 @@ grep_prop() {
 # Enable sdcardfs on SDK24 or newer
 SDK_VER=$(grep_prop ro.build.version.sdk)
 if [ $SDK_VER -ge 24 ]; then
-  /data/magisk/resetprop ro.sys.sdcardfs true
+  /data/magisk/resetprop -v ro.sys.sdcardfs true
 fi
