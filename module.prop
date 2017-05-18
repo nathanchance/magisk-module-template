@@ -1,7 +1,7 @@
 id=personal
 name=My Personal Props
-version=Version 1.0
-versionCode=1
+version=Version 1.1
+versionCode=11
 author=nathanchance
-description=sdcardfs, ro.secure=0, ro.debuggable=1
+description=sdcardfs, secure ADB debugging, and no Subs sig check
 template=3

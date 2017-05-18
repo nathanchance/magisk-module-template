@@ -3,5 +3,5 @@
 # ro.sf.lcd_density=320
 
 ro.sys.sdcardfs=true
-ro.secure=0
-ro.debuggable=1
+ro.adb.secure=1
+ro.interfacer.buildtype.check=true
