@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=oneplus5-oos-starwars-theme
+name=OP5 and OP5T Star Wars theme activator
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=nathanchance
+description=Enable the hidden Star Wars theme in OxygenOS on the OnePlus 5 and OnePlus 5T (requires compatible kernel)
 minMagisk=1500
